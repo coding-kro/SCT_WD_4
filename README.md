@@ -14,11 +14,9 @@ It supports adding, editing, deleting tasks, and saving them to Local Storage so
 
 ---
 
-📸 Screenshot
+📸 Demo
 
-<img width="1113" height="658" alt="Screenshot 2025-08-11 064110" src="https://github.com/user-attachments/assets/39c3e660-0865-4706-86ee-b6e3bc5a9cba" />
-
-<img width="1377" height="788" alt="Screenshot 2025-08-11 064155" src="https://github.com/user-attachments/assets/17c8bfb2-8709-48f5-84f4-a847c59f5152" />
+![ezgif com-speed](https://github.com/user-attachments/assets/68e169bb-22d3-4fcf-aff1-5038a69fa8ca)
 
 ---
 
